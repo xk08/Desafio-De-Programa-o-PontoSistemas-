@@ -1,0 +1,23 @@
+-> Tutorial de como instalar e utilizar <-
+
+1° passo
+Extrair o arquivo desafioPS.zip para seu servidor ;
+
+2° passo
+Execute o script do banco de dados chamado de "scriptPS.sql" (no phpMyAdmin por exemplo) que se encontra nos arquivos fontes da pasta principal ;
+
+3° passo
+Acesse a pasta "view" ; 
+
+4° passo
+Automaticamente irá abrir o arquivo "index.php" ; 
+
+5° passo
+Utilize e aproveite! ; 
+
+-- Mais informaçõs comigo em: 
+
+- E-mail: gronytzki@gmail.com ; 
+- WhatsApp: 55996070031 ; 
+
+
